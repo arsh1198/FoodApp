@@ -1,0 +1,16 @@
+:root {
+  --crim: #da0037;
+  --grey: #444444;
+  --black: #171717;
+  --white: #ededed;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p,
+div {
+  font-family: VarelaRound-Regular;
+}
